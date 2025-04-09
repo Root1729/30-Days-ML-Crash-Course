@@ -1,13 +1,13 @@
-# Day 01: ML & AI Overview
+
+# 📅 Day 01: Python Setup & ML Project Lifecycle Overview
 
 ## 📝 Objective
-Understand the differences between ML, DL, and AI. Explore the ML project lifecycle.
+Set up your Python development environment and understand the Machine Learning project lifecycle from problem definition to deployment and monitoring.
 
 ## 🔧 Tasks
-- [ ] Read the theory
-- [ ] Complete the notebook
-- [ ] Commit progress to GitHub
+- [ ] Read the **Python Setup Guide** 📄 [`Day_01_Getting_Started_with_Python.md`](./Day_01_Getting_Started_with_Python.md)
+- [ ] Read the **ML Project Lifecycle Overview** 📄 [`Day_01_ML_Project_Lifecycle.md`](./Day_01_ML_Project_Lifecycle.md)
 
 ## 📁 Resources
----
-
+- `Day_01_Getting_Started_with_Python.pdf` – Python installation, setup, and first program
+- `Day_01_ML_Project_Lifecycle.pdf` – End-to-end ML lifecycle breakdown with a real-world example
