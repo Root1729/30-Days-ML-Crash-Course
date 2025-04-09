@@ -65,5 +65,20 @@ Welcome to the **30-Day ML & AI Crash Course** – a hands-on, beginner-to-advan
 
 ---
 
-## 📂 Folder Structure
+## 📌 Capstone Ideas
+- **AI Search Engine** (RAG + LangChain)
+---
+
+## 📜 License
+MIT License
+
+---
+
+## ✨ Contributions
+Feel free to fork, improve, or add new challenges. Pull requests welcome!
+
+---
+
+## 🚀 Stay connected
+Follow for more hands-on ML/AI content. Let's build the future together!
 
