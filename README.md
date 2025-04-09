@@ -1,56 +1,69 @@
-# 21-days-ML-Crash-Course-
+# 🚀 30-Day Machine Learning & AI Crash Course
 
+Welcome to the **30-Day ML & AI Crash Course** – a hands-on, beginner-to-advanced journey through **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision (CV)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
 
-Here's a **21-day structured plan** covering your sequence, ensuring a smooth learning curve with **theory, hands-on coding, and projects**. The focus is on **Machine Learning (ML), Deep Learning (DL), Computer Vision (CV), and Large Language Models (LLMs)**. 🚀  
-
----
-
-## ** 21-Day ML & AI Learning Plan**
-
-### **🔹 Week 1: Python, Data Handling, and ML Basics**
-| **Day** | **Topic** | **Details** | **Hands-on/Projects** |
-|---------|----------|-------------|----------------------|
-| **Day 1** | **Introduction** | Overview of ML, AI, and Deep Learning. Introduction to the tech stack (Python, TensorFlow, PyTorch). | Setup Python environment (Jupyter Notebook, Google Colab). Explore ML project lifecycle. |
-| **Day 2** | **Python Basics, Pandas** | Python essentials (loops, functions, OOP). Pandas for data manipulation. | Load and analyze datasets (Titanic, House Prices). Perform data cleaning. |
-| **Day 3** | **NumPy, Matplotlib** | NumPy for arrays, matrix operations. Matplotlib & Seaborn for data visualization. | Plot histograms, scatter plots, correlation heatmaps. |
-| **Day 4** | **Regression, Classification** | Supervised learning: Linear & Logistic Regression, Decision Trees, Random Forest, SVM. | Predict house prices (Regression). Classify emails as spam or not (Classification). |
-| **Day 5** | **Clustering, Dimensionality Reduction** | K-Means, DBSCAN, PCA, t-SNE for feature reduction. | Customer segmentation using K-Means. Visualizing high-dimensional data with PCA. |
+> 💡 Perfect for developers, students, or career switchers looking to fast-track their ML/AI skills.
 
 ---
 
-### **🔹 Week 2: Deep Learning & Computer Vision (CV)**
-| **Day** | **Topic** | **Details** | **Hands-on/Projects** |
-|---------|----------|-------------|----------------------|
-| **Day 6** | **TensorFlow & PyTorch** | Introduction to deep learning frameworks. Building and training neural networks. | Train a simple neural network on MNIST digits dataset. |
-| **Day 7** | **Web Scraping** | Scraping data using BeautifulSoup, Scrapy, Selenium. Handling dynamic content. | Scrape job postings or stock market data. |
-| **Day 8** | **OpenCV** | Image processing, filters, edge detection, contours, thresholding. | Apply filters, detect edges in images. |
-| **Day 9** | **Object Detection** | YOLO, SSD, Faster R-CNN. Real-time object detection. | Train YOLO model on custom dataset. |
-| **Day 10** | **Object Classification** | CNNs, Transfer Learning (ResNet, VGG, EfficientNet). | Classify dogs vs. cats using a pre-trained CNN. |
+## 📅 Course Structure
+
+| Week | Focus Area |
+|------|------------|
+| Week 1 | Python, Math & ML Foundations |
+| Week 2 | ML Algorithms & Evaluation |
+| Week 3 | Deep Learning & Computer Vision |
+| Week 4 | NLP, LLMs & Generative AI |
 
 ---
 
-### **🔹 Week 3: Generative AI & NLP**
-| **Day** | **Topic** | **Details** | **Hands-on/Projects** |
-|---------|----------|-------------|----------------------|
-| **Day 11** | **Gen AI Application using CV** | GANs (Generative Adversarial Networks), Stable Diffusion. | Generate new images using GANs. |
-| **Day 12** | **Gen AI Application using CV** | Advanced GANs, Style Transfer, Image Inpainting. | Implement StyleGAN for image synthesis. |
-| **Day 13** | **NLP Basics** | Tokenization, Lemmatization, Stopwords, Word Embeddings (Word2Vec, GloVe). | Sentiment analysis on IMDB reviews. |
-| **Day 14** | **NLP Advanced** | Transformers, BERT, GPT basics, Attention Mechanism. | Fine-tune BERT on a text classification task. |
-| **Day 15** | **Chatbot Application** | Intent recognition, DialogFlow, Rasa, LangChain. | Build a rule-based and ML-based chatbot. |
+## 📘 Daily Breakdown
+
+### 🔹 Week 1: Python, Math & ML Foundations
+- **[Day 1](./Day%2001)**: ML & AI Overview  
+- **[Day 2](./Day%2002)**: Python for ML  
+- **[Day 3](./Day%2003)**: NumPy & Pandas  
+- **[Day 4](./Day%2004)**: Data Visualization  
+- **[Day 5](./Day%2005)**: Math for ML  
+- **[Day 6](./Day%2006)**: Supervised Learning Basics  
+- **[Day 7](./Day%2007)**: 📊 Project: Regression Pipeline
 
 ---
 
-### **🔹 Week 4: LLMs & Real-World Applications**
-| **Day** | **Topic** | **Details** | **Hands-on/Projects** |
-|---------|----------|-------------|----------------------|
-| **Day 16** | **LLM Basics** | Introduction to Large Language Models (GPT, LLaMA, Claude). Fine-tuning vs. prompt engineering. | Experiment with OpenAI API and Hugging Face transformers. |
-| **Day 17** | **LLM Advanced** | RLHF, Parameter-Efficient Fine-Tuning (PEFT), LoRA. | Fine-tune LLaMA or Mistral on custom data. |
-| **Day 18** | **Real-time Applications using LLMs** | AI Agents, LangChain, Retrieval-Augmented Generation (RAG). | Build a simple AI assistant using LLM and vector databases. |
-| **Day 19** | **Real-time Applications using LLMs** | Voice & multimodal LLMs, Whisper, CLIP. | Create a voice-to-text assistant using Whisper. |
-| **Day 20** | **Real-time Applications using LLMs** | Deploying AI applications on cloud (AWS, Hugging Face Spaces, Streamlit). | Deploy a chatbot or CV-based app on Streamlit. |
-| **Day 21** | **Capstone Project & Review** | Review concepts, work on a final project, discuss improvements. | Choose and build a real-world AI project (e.g., AI-powered search engine, autonomous agent). |
+### 🔹 Week 2: ML Algorithms & Evaluation
+- **[Day 8](./Day%2008)**: Decision Trees & Random Forest  
+- **[Day 9](./Day%2009)**: KNN & SVM  
+- **[Day 10](./Day%2010)**: Naive Bayes  
+- **[Day 11](./Day%2011)**: Clustering  
+- **[Day 12](./Day%2012)**: Dimensionality Reduction  
+- **[Day 13](./Day%2013)**: Model Evaluation  
+- **[Day 14](./Day%2014)**: 🤖 Project: Classification Pipeline
 
 ---
 
-## **🚀 Final Thoughts**
-This plan balances **theory, coding, and projects** so that by the end, you'll be confident in ML, DL, CV, and LLMs.
+### 🔹 Week 3: Deep Learning & Computer Vision
+- **[Day 15](./Day%2015)**: Neural Nets with TensorFlow  
+- **[Day 16](./Day%2016)**: PyTorch Basics  
+- **[Day 17](./Day%2017)**: CNNs & Conv Layers  
+- **[Day 18](./Day%2018)**: Transfer Learning  
+- **[Day 19](./Day%2019)**: OpenCV & Image Preprocessing  
+- **[Day 20](./Day%2020)**: Object Detection  
+- **[Day 21](./Day%2021)**: 📸 Project: Computer Vision App
+
+---
+
+### 🔹 Week 4: NLP, LLMs & Generative AI
+- **[Day 22](./Day%2022)**: NLP Basics  
+- **[Day 23](./Day%2023)**: Word Embeddings  
+- **[Day 24](./Day%2024)**: Transformers & BERT  
+- **[Day 25](./Day%2025)**: Chatbots with LangChain  
+- **[Day 26](./Day%2026)**: LLM Prompting & APIs  
+- **[Day 27](./Day%2027)**: Fine-Tuning LLMs  
+- **[Day 28](./Day%2028)**: GenAI with Vision  
+- **[Day 29](./Day%2029)**: Multimodal AI & Voice Apps  
+- **[Day 30](./Day%2030)**: 🧠 Capstone Project + Demo
+
+---
+
+## 📂 Folder Structure
+
